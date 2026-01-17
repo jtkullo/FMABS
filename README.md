@@ -6,6 +6,13 @@ Complete implementation of the paper "Feature Mimicking with Attention: A Boosti
 
 This project implements a visual anomaly detection method based on feature mimicking and attention mechanism. The method improves anomaly detection performance through a teacher-student network architecture, combining feature mimicking tasks and feature-inconsistency-based attention mechanism.
 
+## Bset Checkpoints
+You can find our best checkpoints in:
+
+- **MVTec AD Dataset**: https://drive.google.com/file/d/1OEjqbglKq_zFEeMAB0lIhTyUxfQpOIng/view?usp=drive_link
+- **CUHK Avenue Dataset**: https://drive.google.com/file/d/1c-POB1FLiC_My0YFIYyDZ7haYc3Q0ly8/view?usp=drive_link
+- **ShanghaiTech Dataset**: https://drive.google.com/file/d/1qF3Q7d1yW8lYbeVduUf4k-d7eq9_TIX8/view?usp=drive_link
+
 ### Key Features
 
 - **Feature Mimicking Task**: The student network learns to mimic the feature representations of the teacher network
